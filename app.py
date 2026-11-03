@@ -17,7 +17,7 @@ from datetime import datetime, timezone
 # -------------------------------
 # API KEY CONFIGURATION
 # -------------------------------
-API_KEY = "xxxxxxxx"
+API_KEY = "hkysxbhyws"
 WRONG_KEY_RESPONSE = {
     "error": "Unauthorized",
     "credits": "@HAFSAN_KUN"
